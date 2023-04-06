@@ -1,0 +1,13 @@
+.t-shirt{
+    margin-top: 30px;
+border:  1px solid lightblue;
+border-radius: 15px;
+padding: 10px;
+}
+.t-shirt img{
+    height: 250px;
+    border-radius: 15px;
+}
+.t-shirt button:hover{
+background-color: brown;
+}
